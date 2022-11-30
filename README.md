@@ -6,6 +6,18 @@ This is mostly for Mike Butler - HOA VP but anyone is welcome to view and access
 
 I'm debating having this as a Github Pages just because maybe that is too public? Anyway, let me know if there are issues or concerns about this repo.
 
+## HOA Board Members
+
+| Name          | Title           | Phone | Email                                                |                        Linked In                         |
+| ------------- | --------------- | ----- | ---------------------------------------------------- | :------------------------------------------------------: |
+| Ron Simon     | President       |       | [email](mailto:hawkscresthoapresident@gmail.com)     | [LI](https://www.linkedin.com/in/ronald-simon-2b018226/) |
+| Mike Butler   | Vice President  |       | [email](mailto:hawkscresthoavicepresident@gmail.com) |  [LI](https://www.linkedin.com/in/mike-butler-6401634/)  |
+| Brent Leung   | Treasurer       |       | [email](mailto:hawkscresthoatreasurer@gmail.com)     |                            ??                            |
+| Rahul Sharma  | Secretary       |       |                                                      |     [LI](https://www.linkedin.com/in/rahulsh780/) ?      |
+| William Rogan | Documents Chair |       |                                                      |     [LI](https://www.linkedin.com/in/williamrogan/)      |
+| Roi Levin     | POA / Landscape |       |                                                      |   [LI](https://www.linkedin.com/in/roi-levin-b87aab8/)   |
+| Dharam Tayal  |                 |       |                                                      |                            ??                            |
+
 ## Some Thoughts
 
 I feel like the previous board did an **amazing** job of detangling the mess that was left from Meritage. The amount of work doing the needful effort impacted the ability to establish and work on what I would call the "fun stuff".

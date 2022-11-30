@@ -44,5 +44,5 @@ This, for now, is a rolling list of topics to discuss that has been rolling arou
 - [ ] More formal Newsletter / Regular Announcements
 - [ ] Clubhouse Thermostat issues (parties changing the settings)
 - [ ] Fountain Locks
-- [ ] Legal Ruling on utilizing a Chat tool like Teams / Slack / Google Chats-workspace
-- [ ]  
+- [ ] Legal Ruling on utilizing a Chat tool like Teams / Slack / Google Chat (Workspace)
+- [ ] Update email so we use the @hawkscresthoa such as pres@hawkscresthoa and landscaping@hawkscresthoa.com. These can forward.
