@@ -25,12 +25,20 @@ This, for now, is a rolling list of topics to discuss that has been rolling arou
 
 ## Contracts Up for Renewal
 
-- [ ] Landscaping (Cherrylake 1/3/23)
+### Landscaping (Cherrylake 1/3/23)
+
 - [ ] First Services
   - [ ] PT maintenance staff? 8h / week (2 x 4)
-- [ ] Envera
-  - [ ] Gate 5/31/23 - I have security issues with our security company.
-  - [ ] Clubhouse 7/31/23
+
+### Gate Security 5/31/23
+
+- **Envera** (Current)
+- VirtualGuard [Website](https://www.virtualguard.com/v-gate/florida-virtual-gate.html)
+
+### Clubhouse Security 7/31/23
+
+- **Envera** (Current)
+- VirtualGuard [Website](https://www.virtualguard.com/our-services/remote-video-surveillance.html)
 
 ## New or ReHashed Items
 
@@ -46,3 +54,11 @@ This, for now, is a rolling list of topics to discuss that has been rolling arou
 - [ ] Fountain Locks
 - [ ] Legal Ruling on utilizing a Chat tool like Teams / Slack / Google Chat (Workspace)
 - [ ] Update email so we use the @hawkscresthoa such as pres@hawkscresthoa and landscaping@hawkscresthoa.com. These can forward.
+- [ ] Parking
+  - [ ] Parking "Enforcement" Solution [OnCall Parking](https://www.oncallparking.com/)
+  - [ ] I'd like an overnight parking permit process. Online form, print permit, push on dash. Valid no more than 3 days. Track the plates and look for abuse. Anything else *can* be towed.
+- [ ] Office needs staffed. It also could use some decorating and warmth and inviting, And labeled **Office**
+- [ ] Community Group (Discounted) Services
+  - [ ] Tree Trimming
+  - [ ] Lawn Care
+  - [ ] Pest Care
