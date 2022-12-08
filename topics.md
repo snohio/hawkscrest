@@ -22,6 +22,7 @@ This, for now, is a rolling list of topics to discuss that has been rolling arou
 - [ ] Washout by Hawk's Nest
 - [ ] Landscaping Improvements (over and above Maintenance Agreement)
 - [ ] Website (Ryan was working on this?)
+- [ ] Grass Carp Stocking
 
 ## Contracts Up for Renewal
 
