@@ -8,11 +8,12 @@ This, for now, is a rolling list of topics to discuss that has been rolling arou
   - [ ] Clearance Bar
   - [ ] Speed Bumps
   - [ ] Date to open?
-- [ ] Food Truck Event
 - [ ] Fining Committee
   - [ ] Documentation is done?
   - [ ] Request for Volunteers
   - [ ] Expectations for that committee?
+- [ ] Radification of the Documents
+- [ ] Food Truck Event
 - [ ] Meritage "True Up"
   - [ ] Tree Assessment Report (and getting them fixed)
 - [ ] Seminole County Traffic Enforcement Agreement
