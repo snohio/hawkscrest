@@ -6,6 +6,10 @@ This is mostly for Mike Butler - HOA VP but anyone is welcome to view and access
 
 I'm debating having this as a Github Pages just because maybe that is too public? Anyway, let me know if there are issues or concerns about this repo.
 
+## Links to other docs
+
+[Gate Signs](gate-signs.md)
+
 ## HOA Board Members
 
 | Name          | Title                   | Phone         | Email                                                |                        Linked In                         |
