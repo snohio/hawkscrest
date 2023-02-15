@@ -36,9 +36,9 @@ NO TAILGATING!
 
 Visitors, have drivers license ready.
 
-Large Trucks use right lane.
+Trucks over 12 ft use right lane.
 
-> This goes on the white post
+> This goes on the existing white post at the front of the guardhouse.
 
 ## Widening Entrance
 
@@ -48,11 +48,30 @@ Add call box on right side on pole.
 
 ## Incidents
 
-### Latest gate strike where we know who did it
+### Latest gate strike where we know who did it 1/9/23
 
-### The one where the gate hit the Tesla
+- Envera has informed us who did it.
+- Did they reach out to us?
+- Let's notice them and let them know that they hit the gate.
 
+### The one where the gate hit the Tesla - Claim 1/6/23
 
+- Let First Service manage this. There was not a question from Keneshia
+
+### January 2nd Gate Strike - 1/2/2023
+
+- Envera reached out to Ron.
+  - They couldn't pull the video
+- Let's notice them.
 
 ## Security Committee
+
+- Form a security committee
+- Anyone who joins needs to go through a background
+- Lets check that with Chris
+
+## Ice Water Outreach
+
+- Ron reviewing the options
+- Vote - Not interested.
 
