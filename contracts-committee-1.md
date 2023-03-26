@@ -71,12 +71,12 @@ Prefer 6pm - 8pm
 
 ## To Do
 
-- [ ] Create spreadsheet with contacts and such and populate
-- [ ] Schedule Interviews with Companies
-- [ ] Find someone to lead this effort.
-- [ ] Can we go month to month if FSR?
+- [x] Create spreadsheet with contacts and such and populate
+- [x] Schedule Interviews with Companies
+- [x] Find someone to lead this effort.
+- [x] Can we go month to month if FSR?
 - [ ] Distribution Group set up? contracts@hawkscresthoa.com @snohio
-- [ ] Top 5 Issues (How would you deal with this.)
-- [ ] Finish Interview Questions
-- [ ] Break down the Interview questions - One question per line, multiple lines per topic
-- [ ] Create Rubric for Results
+- [x] Top 5 Issues (How would you deal with this.)
+- [x] Finish Interview Questions
+- [x] Break down the Interview questions - One question per line, multiple lines per topic
+- [x] Create Rubric for Results
