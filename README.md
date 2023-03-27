@@ -66,3 +66,5 @@ Some useful sites:
 - [SFPMA - Committees: The Good, The Bad, and the Ugly](https://sfpma.com/committees-the-good-the-bad-and-the-ugly/) - Specific to Florida
 
 > I do have a minor concern that unless the Landscaping committee is identified as a Statutory committee as the ARC and Fining are, they may not legally be able to approve purchases because as such might constitute "taking final action". (See SFPMA). This may differ between Condo and Home Owners rules, but it might be wise to run it passed Dan just in case. P.S. It's not that I don't want to grant that or really make that committee statutory, I just want to make sure it is by the law.
+
+test
