@@ -1,6 +1,5 @@
 # June 28th, 2023 - HOA Board Meeting
 
-
 ## Call to Order
 
 * Ron Simon
@@ -16,7 +15,6 @@
 ## Prior Meeting Minutes
 
 ## Treasure Report
-
 
 ## Committee Reports
 
