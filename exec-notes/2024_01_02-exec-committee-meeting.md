@@ -22,7 +22,7 @@
 5. Dharam Tayal board status and process to replace for End of January / February meeting
 6. Holiday Decorations
 7. Recurring Gate Discussion
-8. Budget Surplus
+8. 2023 Budget Wrap Up
 9. Top Notch Asks
    1. Meeting Minutes (Available to the Community)
    2. Weekly Task List
