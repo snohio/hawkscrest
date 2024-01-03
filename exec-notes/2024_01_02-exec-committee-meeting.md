@@ -1,10 +1,10 @@
 # Preparation for the January 10th Board Meeting
 
 1. Standards Documents Changes
-  a. Once Ratified - Artificial Vegetation changes
-  b. Fruit Tree changes (Roi's wording)
-  c. Yard Lighting and support infrastructure. (Eric's lights)
-  d. Permanent Pool Support Equipment (pumps, filters, heaters, propane tanks)
+  1. Once Ratified - Artificial Vegetation changes
+  2. Fruit Tree changes (Roi's wording)
+  3. Yard Lighting and support infrastructure. (Eric's lights)
+  4. Permanent Pool Support Equipment (pumps, filters, heaters, propane tanks)
 2. Full Committee review / Membership Confirmation
    1. ARC
    2. Nomination Committee
@@ -20,7 +20,7 @@
   c. Google Chat / Meeting configuration
 4. Schedule future meeting(s)
 5. Dharam Tayal board status and process to replace for End of January / February meeting
-6. Holiday Decorations
+6. Holiday Decorations (Store this year or move to "rental")
 7. Recurring Gate Discussion
 8. 2023 Budget Wrap Up
 9. Top Notch Asks
