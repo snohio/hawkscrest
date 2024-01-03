@@ -1,10 +1,10 @@
 # Preparation for the January 10th Board Meeting
 
 1. Standards Documents Changes
-  1. Once Ratified - Artificial Vegetation changes
-  2. Fruit Tree changes (Roi's wording)
-  3. Yard Lighting and support infrastructure. (Eric's lights)
-  4. Permanent Pool Support Equipment (pumps, filters, heaters, propane tanks)
+   1. Artificial Vegetation changes (Already ratified pending law review)
+   2. Fruit Tree changes.
+   3. Landscape Lighting and support infrastructure.
+   4. Permanent Pool Support Equipment (pumps, filters, heaters, propane tanks)
 2. Full Committee review / Membership Confirmation
    1. ARC
    2. Nomination Committee
@@ -15,15 +15,14 @@
    7. Finance Committee
    8. (Are there any others that are documented?)
 3. Purchase of Google Workspace for full board (I need to get information on this)
-  a. Board emails to move to hawkscresthoa.com
-  b. All of our documents that we have stored in each of our current Google accounts get moved to the Workspace Drive
-  c. Google Chat / Meeting configuration
+   1. Board emails to move to hawkscresthoa.com
+   2. All of our documents that we have stored in each of our current Google accounts get moved to the Workspace Drive
+   3. Google Chat / Meeting configuration
 4. Schedule future meeting(s)
-5. Dharam Tayal board status and process to replace for End of January / February meeting
-6. Holiday Decorations (Store this year or move to "rental")
-7. Recurring Gate Discussion
-8. 2023 Budget Wrap Up
-9. Top Notch Asks
+5. Holiday Decorations (Store this year or move to "rental")
+6. Recurring Gate Discussion
+7. 2023 Budget Wrap Up
+8. Top Notch Asks
    1. Meeting Minutes (Available to the Community)
    2. Weekly Task List
    3. List of all open RFQs / Projects
