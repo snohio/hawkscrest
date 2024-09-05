@@ -1,4 +1,17 @@
-# Welcome to the Hawk's Crest Social and Communications Committee
+# Hawk's Crest Social and Communications Committee
+
+## Introduction
+
+We'll get something written here someday.
+
+If you would like to suggest an event or would like more information about the SaCC, email [events@hawkscresthoa.com](events@hawkscresthoa.com).
+
+For suggestions or newsletter information, email [newsletters@hawkscresthoa.com](newsletters@hawkscresthoa.com)
+
+## Meeting Agenda and Notes
+
+- [August 8th, 2024](./2024_08_08.md)
+- [September 5th, 2024](./2024_09_05.md)
 
 ## Current Committee Members
 
@@ -16,9 +29,5 @@
 | Cathy Kuhns          | [Catherinekuhns@mac.com](Catherinekuhns@mac.com)                              |                        |
 | Brooke Murrin        | [brooke.murrin@gmail.com](brooke.murrin@gmail.com)                             |                        |
 
-## Meeting Agenda and Notes
-
-- [August 8th, 2024](./2024_08_08.md)
-- [September 5ht, 2024](./2024_09_05.md)
 
 ## More to Come!
