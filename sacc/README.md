@@ -13,6 +13,40 @@ For suggestions or newsletter information, email [newsletters@hawkscresthoa.com]
 - [August 8th, 2024](./2024_08_08.md)
 - [September 5th, 2024](./2024_09_05.md)
 
+## Event Overview
+
+| Event                                    | Schedule                   | Fundraiser/cost    | Owner   |
+| ---------------------------------------- | -------------------------- | ------------------ | ------- |
+| Fall Movie Night                         | September                  | No Cost            | Will    |
+| Yard Sale                                | October                    | No                 | Natalie |
+| 5k Run                                   | Annual (Turkey Trot)       | Fundraiser?        | Mike    |
+| Golf Cart Parade & Light the Trees       | End of November / December |                    |         |
+| Holiday Light Competition                | December 22nd              |                    |         |
+| Holiday Cookie Exchange                  | December 23rd (Monday)     |                    |         |
+| Holiday Movie                            | December 23rd (Monday)     |                    |         |
+| Chili Cookoff                            | January                    | Fundraiser (Enter) |         |
+| Ballroom Dancing                         | February                   |                    | Cara    |
+| Block Parties (Four - Each Neighborhood) | March                      |                    |         |
+| Spring Movie Night                       | March                      |                    |         |
+| Meet Your Neighbors (Social)             | April                      | No                 |         |
+| Easter Egg Hunt                          | April 20th                 |                    |         |
+| Dive In Movie                            | June                       | No                 |         |
+| Parade - Fourth of July (Cookout)        | July 4th(ish)              | Fundraiser         |         |
+| Halloween (Official Event)               |                            |                    |         |
+
+## Food Truck Enhancements
+
+| Food Truck Enhancements | Schedule         | Owner |
+| ----------------------- | ---------------- | ----- |
+| HOA Election Night      | November         |       |
+| Back to the Future      | Jan              |       |
+| Cars and Coffee         | Feb (Sun Morn)   | Mike  |
+| Line Dancing Lessons    | Mar              |       |
+| Bake Sale               | April (Sun More) |       |
+| Cinco De Mayo           | May              |       |
+| Touch a Truck           | Jul              |       |
+| Nerf War                | Sept             | Mike  |
+
 ## Current Committee Members
 
 | Member               | Email                                                        | Role                   |
@@ -26,8 +60,8 @@ For suggestions or newsletter information, email [newsletters@hawkscresthoa.com]
 | Will Tijerina        | [will@dance360orlando.com](will@dance360orlando.com)         |                        |
 | Michelle Tijerina    | [michelle@dance360orlando.com](michelle@dance360orlando.com) |                        |
 | Kristin Ball         | [kristintball@gmail.com](kristintball@gmail.com)             |                        |
-| Cathy Kuhns          | [Catherinekuhns@mac.com](Catherinekuhns@mac.com)                              |                        |
-| Brooke Murrin        | [brooke.murrin@gmail.com](brooke.murrin@gmail.com)                             |                        |
+| Cathy Kuhns          | [Catherinekuhns@mac.com](Catherinekuhns@mac.com)             |                        |
+| Brooke Murrin        | [brooke.murrin@gmail.com](brooke.murrin@gmail.com)           |                        |
 
 
 ## More to Come!
