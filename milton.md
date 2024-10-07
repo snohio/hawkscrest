@@ -4,14 +4,14 @@
 
 > With Hurricane Milton steadily approaching, please take this time to be sure your home is prepared. This will include securing your trash cans and clearing your patios and removing any Halloween decorations and inflatables.  If you have not already done so, please take the time to go over the Hurricane information below.
 
-1. All outdoor furniture, play equipment, trash containers, plants not in the ground, and other items outside your home should be brought inside the garage, inside the home, or secured properly outside so that they can withstand potential high winds.
-2. Being the season of Halloween, please be sure to remove all inflatables and any other decorations.
-3. Be prepared with flashlights and batteries, bottled water, ice, and non-perishable items such as canned food, packaged food, paper and personal products, and a manual can opener.
-4. Do not leave pets unattended at the property. There are many shelters and kennels that will board your pet in case of evacuation.
-5. Charge all of your phones and electronics. In the event of power failure, turn off all appliances and keep refrigerator and freezer doors closed. (Food will stay cool for 24 hours.)
+1. Bring all outdoor furniture, play equipment, trash containers, plants not in the ground, and other items inside the garage, inside the home, or secure them properly outside to withstand potential high winds.
+2. Remove all Halloween inflatables and decorations.
+3. Be prepared with flashlights, batteries, bottled water, ice, non-perishable food items, paper products, personal items, and a manual can opener.
+4. Do not leave pets unattended at the property. Utilize shelters and kennels that will board your pets in case of evacuation.
+5. Charge all phones and electronics. In the event of a power failure, turn off all appliances and keep refrigerator and freezer doors closed to maintain food temperatures for up to 24 hours.
 6. Fill your vehicles gas tank before storm arrives as well as Propane tanks if you have a grill.
 7. ATM's and Credit Card systems may not be working in case of power outage. You’ll want to make arrangements for cash needs.
-8. When you leave the neighborhood, avoid downed power lines and report them to your local electric company as soon as possible.
+8. When you leave the neighborhood, avoid flooded streets and downed power lines and report them to your local electric company as soon as possible.
 9. Take refuge in a small interior room during the storm away from windows.
 10. Keep all windows and doors closed throughout the storm. Do not crack a window or door. Draw your drapery and vertical blinds over the windows to protect from potential shattering glass. You may tape your windows, but boarding up windows on the exterior should only attach to the window frame itself. Remove any tape, boards, or window covers as soon as the storm passes.
 
