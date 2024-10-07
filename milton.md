@@ -18,12 +18,26 @@ Take refuge in a small interior room during the storm away from windows.
 
 1. As part of their protocol, Envera will be opening the gates/ removing barrier arms for the duration of the storm.
 2. Seminole County will be turning off all streetlights as a preventative measure.
-3. Additionally, ULS as well as Down To Earth will be turning off irrigation water lines to prevent flooding in the event of damage.
+3. Additionally, ULS will be turning off irrigation water lines to prevent flooding in the event of damage.
 4. The Pool Furniture, tables, umbrellas, and chairs will be stacked up and secured at the clubhouse. Please note that furniture will be unstacked once the storm has passed and any debris at the pool cabana has been cleared.
 5. All Events and/ or Meetings scheduled through Wednesday have since been cancelled due to the inclement weather.
 6. Our team will return, contingent upon the storm’s speed, in order to assess the property and reset the facilities.
 7. In the event of an *HOA emergency*, please contact Top Notch at 407-644-4406.
 
-## From the Desk of Eric Burris
+## From Our Own Neighborhood, WESH 2 Meteorologist - Eric Burris
 
-> Eric's Notes Here
+Hello neighbors!
+
+As I write this, I'm in continuous coverage talking about the storm... and want to make sure MY community also has every bit of information possible.
+
+Hurricanes are often thought of as coastal only events. I can assure you- they are not. Just look at what Hurricane Helene did mere days ago in the Carolinas.
+
+Looking back through time, the highest wind gusts from a hurricane felt in the Central Florida area took place from Charley back in 2004. I remember the months and months of blue roofs.
+
+The model data for now is showing this being AS strong as that- or perhaps even stronger in our area.
+
+This means that we need to do what we can to help each other. Bring in things that could go airborne in winds, and be ready to lock down. For now, we're looking at late morning Wednesday to 'lock down'. After that, things will get rougher and rougher.
+
+We have been through hurricanes before, we'll make it through this- but know each system is different. This will bring different threats than we've seen, so please don't rest on laurels from the past.
+
+Don't freak out, stay safe, and you'll be just fine.
