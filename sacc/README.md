@@ -12,6 +12,7 @@ For suggestions or newsletter information, email [newsletters@hawkscresthoa.com]
 
 - [August 8th, 2024](./2024_08_08.md)
 - [September 5th, 2024](./2024_09_05.md)
+- [October 21st, 2024](./2024_10_21.md)
 
 ## Event Overview
 
