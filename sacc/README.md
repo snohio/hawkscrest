@@ -16,24 +16,23 @@ For suggestions or newsletter information, email [newsletters@hawkscresthoa.com]
 
 ## Event Overview
 
-| Event                                    | Schedule                   | Fundraiser/cost    | Owner   |
-| ---------------------------------------- | -------------------------- | ------------------ | ------- |
-| Fall Movie Night                         | September                  | No Cost            | Will    |
-| Yard Sale                                | October                    | No                 | Natalie |
-| 5k Run                                   | Annual (Turkey Trot)       | Fundraiser?        | Mike    |
-| Golf Cart Parade & Light the Trees       | End of November / December |                    |         |
-| Holiday Light Competition                | December 22nd              |                    |         |
-| Holiday Cookie Exchange                  | December 23rd (Monday)     |                    |         |
-| Holiday Movie                            | December 23rd (Monday)     |                    |         |
-| Chili Cookoff                            | January                    | Fundraiser (Enter) |         |
-| Ballroom Dancing                         | February                   |                    | Cara    |
-| Block Parties (Four - Each Neighborhood) | March                      |                    |         |
-| Spring Movie Night                       | March                      |                    |         |
-| Meet Your Neighbors (Social)             | April                      | No                 |         |
-| Easter Egg Hunt                          | April 20th                 |                    |         |
-| Dive In Movie                            | June                       | No                 |         |
-| Parade - Fourth of July (Cookout)        | July 4th(ish)              | Fundraiser         |         |
-| Halloween (Official Event)               |                            |                    |         |
+| Event                                    | Schedule                   | Fundraiser/cost    | Owner     |
+| ---------------------------------------- | -------------------------- | ------------------ | --------- |
+| Fall Movie Night                         | September                  | No Cost            | Will      |
+| Yard Sale                                | October                    | No                 | Natalie   |
+| 5k Run                                   | Annual (Turkey Trot)       | Fundraiser?        | Mike      |
+| Golf Cart Parade & Light the Trees       | End of November / December |                    |           |
+| Holiday Light Competition                | December 20th              |                    | Cara      |
+| Holiday Movie                            | December 20th (Monday)     |                    | Book Club |
+| Chili Cookoff                            | January                    | Fundraiser (Enter) | Cookie    |
+| Ballroom Dancing                         | February                   |                    | Cara      |
+| Block Parties (Four - Each Neighborhood) | March                      |                    |           |
+| Spring Movie Night                       | March                      |                    |           |
+| Meet Your Neighbors (Social)             | April                      | No                 |           |
+| Easter Egg Hunt                          | April 20th                 |                    |           |
+| Dive In Movie                            | June                       | No                 |           |
+| Parade - Fourth of July (Cookout)        | July 4th(ish)              | Fundraiser         |           |
+| Halloween (Official Event)               |                            |                    |           |
 
 ## Food Truck Enhancements
 
@@ -45,6 +44,7 @@ For suggestions or newsletter information, email [newsletters@hawkscresthoa.com]
 | Line Dancing Lessons    | Mar              |       |
 | Bake Sale               | April (Sun More) |       |
 | Cinco De Mayo           | May              |       |
+| Yoga                    | June             |       |
 | Touch a Truck           | Jul              |       |
 | Nerf War                | Sept             | Mike  |
 
